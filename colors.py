@@ -5,4 +5,4 @@ while i < len(colors):
     i = i + 1
 
 for x in colors[:]:
-    print(x)
+    print("Kolory", x)
